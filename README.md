@@ -28,6 +28,7 @@ Authors A and B argue for two very different types of lifestyles. A argues for a
 
 
 # Written Report
+(In Progress)
 
 
 # Data Sources
@@ -47,7 +48,8 @@ ALASTAIR HANNAY
 
 
 # Summary of Results
-(In Progress)
+
+#### (In Progress)
 ![All Chapters Sentiment Graph.png](https://github.com/pkm29/Philosophy_Analysis/raw/master/Sentiment%20Graph%20Big.png)
 
 * Aesthetic chapters 2-7: A quick look at this portion of the book reveals both positive and negative sentiment, chapter 3 being largely positive and chapter 4 being very much negative. While obviously the most negative chapter of the book, it is interesting to see the sharp changes in the moving average as we start chapters 3 and 4. Perhaps the topic of the chapters is naturally characterized as negative or positive, and our VADER sentiment analysis captures this topic instead of the tone. <br><br>
