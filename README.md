@@ -33,21 +33,21 @@ Authors A and B argue for two very different types of lifestyles. A argues for a
 # Data Sources
 
 
-![Data Source Image.png](https://github.com/pkm29/big_data_final_project3/raw/master/Artboard%201.png)
+![Data Source Image.png](https://github.com/pkm29/Philosophy_Analysis/raw/master/Data%20Source%20Image.png)
 
+Epub Book by Penguin Publishing
 
+*Edited by*
 
+VICTOR EREMITA
+
+*Abridged, Translated and with an Introduction and Notes by*
+
+ALASTAIR HANNAY
 
 
 # Summary of Results 
-
-
-
-## Conclusion
-
-
-
-## Future Work
+![All Chapters Sentiment Graph.png](https://github.com/pkm29/Philosophy_Analysis/raw/master/Sentiment%20Graph%20Big.png)
 
 
 # Credit
@@ -55,4 +55,4 @@ Authors A and B argue for two very different types of lifestyles. A argues for a
 
 
 # License
-See the [LICENSE](https://github.com/pkm29/big_data_final_project3/blob/master/LICENSE.md) file for license rights and limitations (MIT).
+See the [LICENSE](https://github.com/pkm29/Philosophy_Analysis/blob/master/LICENSE.md) file for license rights and limitations (MIT).
