@@ -46,9 +46,16 @@ VICTOR EREMITA
 ALASTAIR HANNAY
 
 
-# Summary of Results 
+# Summary of Results
+(In Progress)
 ![All Chapters Sentiment Graph.png](https://github.com/pkm29/Philosophy_Analysis/raw/master/Sentiment%20Graph%20Big.png)
 
+* Aesthetic chapters 2-7: A quick look at this portion of the book reveals both positive and negative sentiment, chapter 3 being largely positive and chapter 4 being very much negative. While obviously the most negative chapter of the book, it is interesting to see the sharp changes in the moving average as we start chapters 3 and 4. Perhaps the topic of the chapters is naturally characterized as negative or positive, and our VADER sentiment analysis captures this topic instead of the tone. <br><br>
+* Ethical chapters 8-11: This section of the book, written by author B, seems to be more positive overall and with an interesting degree of variability, almost cyclical at times. I think the most interesting analysis however comes with reading the text, as you can pinpoint changes in sentiment with the context of the text.
+
+![Comparing Pseudonyms.png](https://github.com/pkm29/Philosophy_Analysis/raw/master/box1.png)
+
+![Comparing Chapters.png](https://github.com/pkm29/Philosophy_Analysis/raw/master/box2.png)
 
 # Credit
 - 
